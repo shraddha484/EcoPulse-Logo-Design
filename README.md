@@ -2,7 +2,7 @@
 
 # EcoPulse Logo Design
 
-![EcoPulse Logo](logo%20design.jpg)
+![EcoPulse Logo](logodesign.jpg)
 
 ## 📌 Project Overview
 EcoPulse is a **sustainable tech company** that focuses on eco-friendly gadgets and renewable energy solutions.  
